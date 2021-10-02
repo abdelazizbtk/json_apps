@@ -1,43 +1,52 @@
 {
-  "GuideData": {
-    "CpaAds": [{
-      "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-      "ImageBannerURL": "https://www.google.com/"
+	"GuideData": {
+		"CpaAds": [{
+			"ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+			"ImageBannerURL": "https://www.google.com/"
 
-    }],
+		}],
 
-    "items": [{
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "download": "https://usercontent2.hubstatic.com/"
-      },{
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "download": "https://usercontent2.hubstatic.com/"
-      },{
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "download": "https://usercontent2.hubstatic.com/"
-      },{
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "download": "https://usercontent2.hubstatic.com/"
-      },{
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "download": "https://usercontent2.hubstatic.com/"
-      },{
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "download": "https://usercontent2.hubstatic.com/"
-      }
-    ]
+		"items": [{
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}, {
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}, {
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}, {
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}, {
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}, {
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}, {
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}, {
+			"title": "Dark Meadow: The Pact",
+			"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+			"text": "sdsdasdsdasd ssa dadas dasd",
+			"download": "https://static.remove.bg/remove-bg-web/8fb1a6ef22fefc0b0866661b4c9b922515be4ae9/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png"
+		}]
 
-  }
+	}
 }
