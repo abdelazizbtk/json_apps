@@ -1,37 +1,42 @@
 {
-	"GuideData": {
-		"CpaAds": [{
-			"ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"ImageBannerURL": "https://www.google.com/"
+  "GuideData": {
+    "CpaAds": [{
+      "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "ImageBannerURL": "https://www.google.com/"
 
-		}],
+    }],
 
-		"items": [{
-			"title": "Find Button Map",
-			"image": "https://drive.google.com/uc?id=17riHQYkj-_AVmWagS_aNXIFWaZKYcRkw",
-			"text": "It is one of Minecra*t PE’s well-known mini-games. In these maps, the player must find buttons that lead to the next level....",
-			"download": "https://doc-00-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/jft4f89stffch0lpt76ok6mplfisp6in/1633358850000/12465192775435276177/12445176569431006113Z/17irMtTbwhg3qQ22ACZKaSZIhqPmMt_No?e=download&nonce=s45spm0ajb492&user=12445176569431006113Z&hash=ke1pa8vhsrf5674q0p1qhs699sf1e2ui"
-		},{
-			"title": "Baldi Basics map",
-			"image": "https://drive.google.com/uc?id=17Ri0rYS3WJaeB9N7dX90RHSP7nAAHwnp",
-			"text": "Baldi is a popular computer game where you have to collect notebooks and avoid a Baldi teacher. Here are some thematic maps for MCPE that make you feel like Baldi heroes.",
-			"download": "https://doc-14-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/1otb3bclskmuuf6blgot6t41761i9djo/1633359000000/12465192775435276177/12445176569431006113Z/17eP760MQoUhU071TxhYNMbEf_UTfDsx3?e=download"
-		},{
-			"title": "Bed Wars map",
-			"image": "https://drive.google.com/uc?id=17a3Vphbe2HsgQjvAOY1Nrf5yevQ-j56V",
-			"text": "This minigame has won a great deal of love among MCPE players. Its essence is the destruction of enemy teams. Each of them has its bed, which allows them to reseat.",
-			"download": "https://doc-14-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/72ojl0gjjpd96ha4nq1a6flg343h3m9q/1633359150000/12465192775435276177/12445176569431006113Z/17jufi_3OWA_0iKyKvvODfBBvZmnT9XPB?e=download&nonce=c5m57htdmpg18&user=12445176569431006113Z&hash=s60p6rie4j4ta92cdj1el0fgutkfe8sv"
-		},{
-			"title": "SCP map",
-			"image": "https://drive.google.com/uc?id=17SgVz6YT1nlx0YxRxwfND-dcN64Q7ffx",
-			"text": "There is a unique SCP community in the world that is carefully hidden. His task is to collect and investigate a massive stream of data on hundreds of dangerous non-human beings.",
-			"download": "https://doc-0c-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/lojrors8fdnlc6oi283eishf4bm5au3r/1633359075000/12465192775435276177/12445176569431006113Z/17V2i2h_qBCcg8q05XpkQNxNUZTZdlAoE?e=download"
-		},{
-			"title": "SkyWars map",
-			"image": "https://drive.google.com/uc?id=17fio6rhTeup1bZJ2-bJ22tY7u58K16su",
-			"text": "The Sky Wars location is one of Minecraft PE’s favorite game modes. The essence of this minigame is that each player will mate on their private island. He needs to get what he needs in a short amount of time and fight the rest. The winner is the last survivor.",
-			"download": "https://doc-0o-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/g79pcnqrcv2k1tilk1cbi7s3buc02mp4/1633359225000/12465192775435276177/12445176569431006113Z/17Y904rWJcxi2Z9zAs7VVK5r4ZiM6izey?e=download"
-		}]
+    "items": [{
+        "title": "Experiment Z (Zombie Apocalypse)",
+        "image": "https://drive.google.com/uc?id=189uGUf-5L2y9Iu3aPT453vRo2kB_PB9h",
+        "text": "This addon adds new zombies to your game, besides having several other zombie variants, which makes this add-on more difficult, and also many other creation tools!, which will make it easier for you to survive on this journey!!",
+        "link": "https://doc-04-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/h0psq5sbe87ondmr9u7641bcrmo8nklc/1633365300000/12465192775435276177/12445176569431006113Z/18WVZKHAnWFjfucU6ypu9KcAOOKPfkI6A?e=download&nonce=484gf11f77lta&user=12445176569431006113Z&hash=gts9amdkndb8o20q69hnrubevsea1soq"
+      },
+      {
+        "title": "New Adventure Plus - Addon! (Update Beach)",
+        "image": "https://drive.google.com/uc?id=18GoRn7jGjtf4h_xB8N3hX-ATmQuwUWUD",
+        "text": "Added soul Pumpkin Created from Jack's pumpkin and the soul torch underneath, have a terrible Halloween",
+        "link": "https://doc-0c-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/mfqs5vide01coae8jno4ga2048bv99ej/1633365525000/12465192775435276177/12445176569431006113Z/18VuMYsTiy12fd_evJfuU-V75fRoXcuib?e=download"
+      },
+      {
+        "title": "Mod of Randomness V1.0",
+        "image": "https://drive.google.com/uc?id=18Jn7WF2Oh0AjjZRxXa2il-ona-tIYG1i",
+        "text": "An addon that has features so random but somehow are all linked together, there is over 2000 new features inside this one addon, prepare to never see minecraft the same again.",
+        "link": "https://doc-0k-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/1932ko6ufscjbrojk3hn005d17cmms52/1633365675000/12465192775435276177/12445176569431006113Z/18C7bNXVQzjiBL9kV3rCpZb8j5G_z7Ypi?e=download&nonce=rrto28mjtk460&user=12445176569431006113Z&hash=ivelqmnd289tn16s9br6dc89gudhecg9"
+      },
+      {
+        "title": "FireTrack Addon V1",
+        "image": "https://drive.google.com/uc?id=18J2EwxYndB3BI7M8NOaa7dMXpqTxagFY",
+        "text": "What features does FireTrack have? He has 2 seats, animation, a voluminous trunk, as well as he controls the key-(Saddle) FireTrack Designed for fun and rp games.",
+        "link": "https://doc-0g-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/o28cahkjv0ha4oa4lf8stv6u2c5f0ljl/1633365975000/12465192775435276177/12445176569431006113Z/18WpzbkYhc_SB9uSbIeaaWV1TKC4yQ2BE?e=download"
+      },
+      {
+        "title": "Forest X 3.2.0",
+        "image": "https://drive.google.com/uc?id=18Hcavm4owvofvru5lQxJ1BvGSB4ryiQS",
+        "text": "Forest X is a great addon that improves the vanilla game and adds a large number of different blocks and items. In the new biomes, you will be able to find new animals, such as raccoons and brown bears.",
+        "link": "https://doc-0o-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/u7hjcbp6i3thqvai6hnh8a2og5pa35ee/1633365975000/12465192775435276177/12445176569431006113Z/186LImf3WNCgLJaYvdgt4tMBJOO8aHY1u?e=download&nonce=620pt9dr56o5q&user=12445176569431006113Z&hash=r68jvt1nbj0i3ctuaqu4jvpccrv6i2vp"
+      }
+    ]
 
-	}
+  }
 }
