@@ -1,37 +1,42 @@
 {
-	"GuideData": {
-		"CpaAds": [{
-			"ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"ImageBannerURL": "https://www.google.com/"
+  "GuideData": {
+    "CpaAds": [{
+      "ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "ImageBannerURL": "https://www.google.com/"
 
-		}],
+    }],
 
-		"items": [{
-			"title": "Dream",
-			"image": "https://drive.google.com/uc?id=1-049uFOL1kfmY0unXO0hY8kMF6ZQSf4I",
-			"text": "Skin for Dream",
-			"download": "https://drive.google.com/uc?id=1QD7AVfXbNqQHMniWFgikD7Xd1aPOtN2Y"
-		},{
-			"title": "Arabian Man",
-			"image": "https://drive.google.com/uc?id=1ohaHaIswIj1iGMz_IHM-GzQ2FjhCinB7",
-			"text": "Skin for Arabian Man",
-			"download": "https://drive.google.com/uc?id=1PgcV-UobIR0Rw9fbZfCYbP1qKJX9OOq_"
-		},{
-			"title": "Lolyou",
-			"image": "https://drive.google.com/uc?id=16luJKGLAHl62pt_dIbajny_w_UX5BH3K",
-			"text": "Skin for Lolyou",
-			"download": "https://drive.google.com/uc?id=1HN1r3qUkUJP2g6DamFJ4uTSi4rWOw4eo"
-		},{
-			"title": "NewGuyCri",
-			"image": "https://drive.google.com/uc?id=19p_0syzyYWg-qpohePwDYOBgMOV8amxN",
-			"text": "Skin for NewGuyCri",
-			"download": "https://drive.google.com/uc?id=1PgcV-UobIR0Rw9fbZfCYbP1qKJX9OOq_"
-		},{
-			"title": "ByQuadrix",
-			"image": "https://drive.google.com/uc?id=1anxrzXzhrd5DgucEsyP6k4gASuphcBl0",
-			"text": "Skin for ByQuadrix",
-			"download": "https://drive.google.com/uc?id=1QqlBqNdHWlF_I82mkmJsOQBwfKdmL4oo"
-		}]
+    "items": [{
+        "title": "Experiment Z (Zombie Apocalypse)",
+        "image": "https://drive.google.com/uc?id=189uGUf-5L2y9Iu3aPT453vRo2kB_PB9h",
+        "text": "This addon adds new zombies to your game, besides having several other zombie variants, which makes this add-on more difficult, and also many other creation tools!, which will make it easier for you to survive on this journey!!",
+        "link": "https://doc-04-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/h0psq5sbe87ondmr9u7641bcrmo8nklc/1633365300000/12465192775435276177/12445176569431006113Z/18WVZKHAnWFjfucU6ypu9KcAOOKPfkI6A?e=download&nonce=484gf11f77lta&user=12445176569431006113Z&hash=gts9amdkndb8o20q69hnrubevsea1soq"
+      },
+      {
+        "title": "New Adventure Plus - Addon! (Update Beach)",
+        "image": "https://drive.google.com/uc?id=18GoRn7jGjtf4h_xB8N3hX-ATmQuwUWUD",
+        "text": "Added soul Pumpkin Created from Jack's pumpkin and the soul torch underneath, have a terrible Halloween",
+        "link": "https://doc-0c-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/mfqs5vide01coae8jno4ga2048bv99ej/1633365525000/12465192775435276177/12445176569431006113Z/18VuMYsTiy12fd_evJfuU-V75fRoXcuib?e=download"
+      },
+      {
+        "title": "Mod of Randomness V1.0",
+        "image": "https://drive.google.com/uc?id=18Jn7WF2Oh0AjjZRxXa2il-ona-tIYG1i",
+        "text": "An addon that has features so random but somehow are all linked together, there is over 2000 new features inside this one addon, prepare to never see minecraft the same again.",
+        "link": "https://doc-0k-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/1932ko6ufscjbrojk3hn005d17cmms52/1633365675000/12465192775435276177/12445176569431006113Z/18C7bNXVQzjiBL9kV3rCpZb8j5G_z7Ypi?e=download&nonce=rrto28mjtk460&user=12445176569431006113Z&hash=ivelqmnd289tn16s9br6dc89gudhecg9"
+      },
+      {
+        "title": "FireTrack Addon V1",
+        "image": "https://drive.google.com/uc?id=18J2EwxYndB3BI7M8NOaa7dMXpqTxagFY",
+        "text": "What features does FireTrack have? He has 2 seats, animation, a voluminous trunk, as well as he controls the key-(Saddle) FireTrack Designed for fun and rp games.",
+        "link": "https://doc-0g-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/o28cahkjv0ha4oa4lf8stv6u2c5f0ljl/1633365975000/12465192775435276177/12445176569431006113Z/18WpzbkYhc_SB9uSbIeaaWV1TKC4yQ2BE?e=download"
+      },
+      {
+        "title": "Forest X 3.2.0",
+        "image": "https://drive.google.com/uc?id=18Hcavm4owvofvru5lQxJ1BvGSB4ryiQS",
+        "text": "Forest X is a great addon that improves the vanilla game and adds a large number of different blocks and items. In the new biomes, you will be able to find new animals, such as raccoons and brown bears.",
+        "link": "https://doc-0o-80-docs.googleusercontent.com/docs/securesc/valbnuvn7bqhefk6himrvm2ep2b5p8q6/u7hjcbp6i3thqvai6hnh8a2og5pa35ee/1633365975000/12465192775435276177/12445176569431006113Z/186LImf3WNCgLJaYvdgt4tMBJOO8aHY1u?e=download&nonce=620pt9dr56o5q&user=12445176569431006113Z&hash=r68jvt1nbj0i3ctuaqu4jvpccrv6i2vp"
+      }
+    ]
 
-	}
+  }
 }
