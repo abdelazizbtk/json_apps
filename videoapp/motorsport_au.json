@@ -1,0 +1,59 @@
+{
+	"GuideData": {
+		"CpaAds": [{
+			"ImageBannerImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+			"ImageBannerURL": "https://www.google.com/"
+
+		}],
+
+		"items": [{
+				"title": "Race 7 - Perth 300 [Full Race - SuperArchive] | 2003 Supercars Championship Series",
+				"image": "https://img.youtube.com/vi/ADqDEE12nXs/maxresdefault.jpg",
+				"videoID": "ADqDEE12nXs"
+			}, {
+				"title": "Race 14 - Winton Raceway [Full Race - SuperArchive] | 1998 Australian Touring Car Championship",
+				"image": "https://img.youtube.com/vi/iIDamQStZhQ/maxresdefault.jpg",
+				"videoID": "iIDamQStZhQ"
+			}, {
+				"title": "Top 10 CRASHES of the year | Supercars 2021",
+				"image": "https://img.youtube.com/vi/7TCN410XSbI/maxresdefault.jpg",
+				"videoID": "7TCN410XSbI"
+			}, {
+				"title": "Race 13 - Winton Raceway [Full Race - SuperArchive] | 1998 Australian Touring Car Championship",
+				"image": "https://img.youtube.com/vi/CWBvnIDfSGMCWBvnIDfSGM/maxresdefault.jpg",
+				"videoID": "CWBvnIDfSGM"
+			}, {
+				"title": "Neck on the line in NASCAR: Life Before Supercars [Episode 13] | Supercars 2021",
+				"image": "https://img.youtube.com/vi/_EohL9lW4HI/maxresdefault.jpg",
+				"videoID": "_EohL9lW4HI"
+			}, {
+				"title": "Race 27 - Pukekohe International [Full Race - SuperArchive] | 2001 Shell Championship Series",
+				"image": "https://img.youtube.com/vi/7Uuhjmp7kIQ/maxresdefault.jpg",
+				"videoID": "7Uuhjmp7kIQ"
+			}, {
+				"title": "Race 26 - Pukekohe International [Full Race - SuperArchive] | 2001 Shell Championship Series",
+				"image": "https://img.youtube.com/vi/E3ihRZT-Sgo/maxresdefault.jpg",
+				"videoID": "E3ihRZT-Sgo"
+			}, {
+				"title": "Race 25 - Pukekohe International [Full Race - SuperArchive] | 2001 Shell Championship Series",
+				"image": "https://img.youtube.com/vi/D8naqzByBzk/maxresdefault.jpg",
+				"videoID": "D8naqzByBzk"
+			}, {
+				"title": "Pony Up! - Gen3 Mustang ready for 2023 | Supercars 2021",
+				"image": "https://img.youtube.com/vi/fmhlsKAcgdo/maxresdefault.jpg",
+				"videoID": "fmhlsKAcgdo"
+			}, {
+				"title": "Race 20 - Oran Park [Full Race - SuperArchive] | 2001 Shell Championship Series",
+				"image": "https://img.youtube.com/vi/edtnOLg08gc/maxresdefault.jpg",
+				"videoID": "edtnOLg08gc"
+			}, {
+				"title": "21 MEGA moments from 2021 | Supercars 2021",
+				"image": "https://img.youtube.com/vi/x8-ms5tICzA/maxresdefault.jpg",
+				"videoID": "x8-ms5tICzA"
+			}
+
+
+		]
+
+	}
+}
