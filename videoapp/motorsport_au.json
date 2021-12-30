@@ -6,50 +6,208 @@
 
 		}],
 
-		"items": [{
-				"title": "Race 7 - Perth 300 [Full Race - SuperArchive] | 2003 Supercars Championship Series",
-				"image": "https://img.youtube.com/vi/ADqDEE12nXs/maxresdefault.jpg",
-				"videoID": "ADqDEE12nXs"
+		"items": [
+
+			{
+				"title": "Race 27 - Hidden Valley [Full Race - SuperArchive] | 1998 Australian Touring Car Championship",
+				"image": "https://i.ytimg.com/vi/2NZNuqpCjq0/hqdefault.jpg",
+				"videoID": "2NZNuqpCjq0"
 			}, {
-				"title": "Race 14 - Winton Raceway [Full Race - SuperArchive] | 1998 Australian Touring Car Championship",
-				"image": "https://img.youtube.com/vi/iIDamQStZhQ/maxresdefault.jpg",
-				"videoID": "iIDamQStZhQ"
-			}, {
-				"title": "Top 10 CRASHES of the year | Supercars 2021",
-				"image": "https://img.youtube.com/vi/7TCN410XSbI/maxresdefault.jpg",
-				"videoID": "7TCN410XSbI"
-			}, {
-				"title": "Race 13 - Winton Raceway [Full Race - SuperArchive] | 1998 Australian Touring Car Championship",
-				"image": "https://img.youtube.com/vi/CWBvnIDfSGM/maxresdefault.jpg",
-				"videoID": "CWBvnIDfSGM"
-			}, {
-				"title": "Neck on the line in NASCAR: Life Before Supercars [Episode 13] | Supercars 2021",
-				"image": "https://img.youtube.com/vi/_EohL9lW4HI/maxresdefault.jpg",
-				"videoID": "_EohL9lW4HI"
-			}, {
-				"title": "Race 27 - Pukekohe International [Full Race - SuperArchive] | 2001 Shell Championship Series",
-				"image": "https://img.youtube.com/vi/7Uuhjmp7kIQ/maxresdefault.jpg",
-				"videoID": "7Uuhjmp7kIQ"
-			}, {
-				"title": "Race 26 - Pukekohe International [Full Race - SuperArchive] | 2001 Shell Championship Series",
-				"image": "https://img.youtube.com/vi/E3ihRZT-Sgo/maxresdefault.jpg",
-				"videoID": "E3ihRZT-Sgo"
-			}, {
-				"title": "Race 25 - Pukekohe International [Full Race - SuperArchive] | 2001 Shell Championship Series",
-				"image": "https://img.youtube.com/vi/D8naqzByBzk/maxresdefault.jpg",
-				"videoID": "D8naqzByBzk"
-			}, {
-				"title": "Pony Up! - Gen3 Mustang ready for 2023 | Supercars 2021",
-				"image": "https://img.youtube.com/vi/fmhlsKAcgdo/maxresdefault.jpg",
-				"videoID": "fmhlsKAcgdo"
-			}, {
-				"title": "Race 20 - Oran Park [Full Race - SuperArchive] | 2001 Shell Championship Series",
-				"image": "https://img.youtube.com/vi/edtnOLg08gc/maxresdefault.jpg",
-				"videoID": "edtnOLg08gc"
+				"title": "Race 26 - Hidden Valley [Full Race - SuperArchive] | 1998 Australian Touring Car Championship",
+				"image": "https://i.ytimg.com/vi/m5NoMDJM4hY/hqdefault.jpg",
+				"videoID": "m5NoMDJM4hY"
 			}, {
 				"title": "21 MEGA moments from 2021 | Supercars 2021",
-				"image": "https://img.youtube.com/vi/x8-ms5tICzA/maxresdefault.jpg",
+				"image": "https://i.ytimg.com/vi/x8-ms5tICzA/hqdefault.jpg",
 				"videoID": "x8-ms5tICzA"
+			}, {
+				"title": "Race 19 - Queensland Raceway [Full Race - SuperArchive] | 1999 Shell Championship Series",
+				"image": "https://i.ytimg.com/vi/ppqlr_I-jLg/hqdefault.jpg",
+				"videoID": "ppqlr_I-jLg"
+			}, {
+				"title": "Race 18 - Queensland Raceway [Full Race - SuperArchive] | 1999 Shell Championship Series",
+				"image": "https://i.ytimg.com/vi/MJqZ_TeB-B0/hqdefault.jpg",
+				"videoID": "MJqZ_TeB-B0"
+			}, {
+				"title": "Race 1 - Adelaide 500 [Full Race - SuperArchive] | 2002 V8 Supercar Championship Series",
+				"image": "https://i.ytimg.com/vi/nCJ0oc_kxIc/hqdefault.jpg",
+				"videoID": "nCJ0oc_kxIc"
+			}, {
+				"title": "Race 22 - Eastern Creek Main Event [Full Race - SuperArchive] | 2003 Supercars Championship Series",
+				"image": "https://i.ytimg.com/vi/P5aFYFRFxnY/hqdefault.jpg",
+				"videoID": "P5aFYFRFxnY"
+			}, {
+				"title": "Top 10 teammate CLASHES of all time | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/DV5sZihdmSo/hqdefault.jpg",
+				"videoID": "DV5sZihdmSo"
+			}, {
+				"title": "Race 21 - Eastern Creek Main Event [Full Race - SuperArchive] | 2003 Supercars Championship Series",
+				"image": "https://i.ytimg.com/vi/VBoBAKzvlDU/hqdefault.jpg",
+				"videoID": "VBoBAKzvlDU"
+			}, {
+				"title": "Flashback: Dane fires up in driver change challenge | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/8qeTb-hDAM4/hqdefault.jpg",
+				"videoID": "8qeTb-hDAM4"
+			}, {
+				"title": "Race 25 - Hidden Valley [Full Race - SuperArchive] | 1998 Australian Touring Car Championship",
+				"image": "https://i.ytimg.com/vi/7ZAGZk7dve0/hqdefault.jpg",
+				"videoID": "7ZAGZk7dve0"
+			}, {
+				"title": "Top 10 ONBOARD moments of 2021 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/QllUUGLzFU0/hqdefault.jpg",
+				"videoID": "QllUUGLzFU0"
+			}, {
+				"title": "Race 7 - Perth 300 [Full Race - SuperArchive] | 2003 Supercars Championship Series",
+				"image": "https://i.ytimg.com/vi/ADqDEE12nXs/hqdefault.jpg",
+				"videoID": "ADqDEE12nXs"
+			}, {
+				"title": "Top 10 CRASHES of the year | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/7TCN410XSbI/hqdefault.jpg",
+				"videoID": "7TCN410XSbI"
+			}, {
+				"title": "Neck on the line in NASCAR: Life Before Supercars [Episode 13] | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/_EohL9lW4HI/hqdefault.jpg",
+				"videoID": "_EohL9lW4HI"
+			}, {
+				"title": "RACE RADIO: Wildness over the Mountain - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/NLslu0bQphE/hqdefault.jpg",
+				"videoID": "NLslu0bQphE"
+			}, {
+				"title": "Start to Finish: Gen3 Unpacked in FULL [Gen3 Unpacked] | Supercars 2022",
+				"image": "https://i.ytimg.com/vi/kUtjehG7Nb0/hqdefault_live.jpg",
+				"videoID": "kUtjehG7Nb0"
+			}, {
+				"title": "Top 10 CLOSEST finishes of 2021 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/fRIoCuzAEqQ/hqdefault.jpg",
+				"videoID": "fRIoCuzAEqQ"
+			}, {
+				"title": "TOP 10 Todd & Rick Kelly career moments | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/rH2GQ1RzoQE/hqdefault.jpg",
+				"videoID": "rH2GQ1RzoQE"
+			}, {
+				"title": "From mechanic to winning it all - Spirited Conversations: Garth Tander [Episode 6]",
+				"image": "https://i.ytimg.com/vi/u1aOrpOuy_I/hqdefault.jpg",
+				"videoID": "u1aOrpOuy_I"
+			}, {
+				"title": "Five young drivers set to take over Supercars - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/uLPrYYnoO5U/hqdefault.jpg",
+				"videoID": "uLPrYYnoO5U"
+			}, {
+				"title": "ONBOARD: Waters' fancy footwork at The Mountain - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/ytOujHHsIwI/hqdefault.jpg",
+				"videoID": "ytOujHHsIwI"
+			}, {
+				"title": "Championship celebratory burnout for SVG - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/ROKde3wGq68/hqdefault.jpg",
+				"videoID": "ROKde3wGq68"
+			}, {
+				"title": "TOP 10 Jamie Whincup career moments | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/crhnUrBR9TQ/hqdefault.jpg",
+				"videoID": "crhnUrBR9TQ"
+			}, {
+				"title": "All the crashes from the 2021 Great Race - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/toMsyhtg6dM/hqdefault.jpg",
+				"videoID": "toMsyhtg6dM"
+			}, {
+				"title": "Race 31 Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/Z5MfH6YSCn0/hqdefault.jpg",
+				"videoID": "Z5MfH6YSCn0"
+			}, {
+				"title": "Echidna ON TRACK brings out Safety Car - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/WxoW0zXiZ8Q/hqdefault.jpg",
+				"videoID": "WxoW0zXiZ8Q"
+			}, {
+				"title": "HUGE S5000 crash at Bathurst - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/UkgH-2uZveA/hqdefault.jpg",
+				"videoID": "UkgH-2uZveA"
+			}, {
+				"title": "Warm Up Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/HNiKQE6amfc/hqdefault.jpg",
+				"videoID": "HNiKQE6amfc"
+			}, {
+				"title": "How Chaz Mostert broke the Bathurst lap record - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/PEb9SrxgWQE/hqdefault.jpg",
+				"videoID": "PEb9SrxgWQE"
+			}, {
+				"title": "Mountain man Mostert: The record 2.03.373s lap - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/OuLfT-lsz_8/hqdefault.jpg",
+				"videoID": "OuLfT-lsz_8"
+			}, {
+				"title": "Top Ten SHOOTOUT 31 Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/1xfVg6XUM5Q/hqdefault.jpg",
+				"videoID": "1xfVg6XUM5Q"
+			}, {
+				"title": "Race 10 Highlights - Repco Bathurst 1000 | Super2 2021",
+				"image": "https://i.ytimg.com/vi/_BvKGC5RZKs/hqdefault.jpg",
+				"videoID": "_BvKGC5RZKs"
+			}, {
+				"title": "Jamie Whincup reviews the Gen3 Camaro - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/Z4YJczMNGkU/hqdefault.jpg",
+				"videoID": "Z4YJczMNGkU"
+			}, {
+				"title": "Fiery Toyota 86 escapes after multi-car pile-up - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/MEB6i4dbGjo/hqdefault.jpg",
+				"videoID": "MEB6i4dbGjo"
+			}, {
+				"title": "Practice 6 Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/vDc68orwHI4/hqdefault.jpg",
+				"videoID": "vDc68orwHI4"
+			}, {
+				"title": "Fast S5000 shunt through the Chase - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/6MoiKPgKRK0/hqdefault.jpg",
+				"videoID": "6MoiKPgKRK0"
+			}, {
+				"title": "Practice 5 Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/3yM1zqAeRCo/hqdefault.jpg",
+				"videoID": "3yM1zqAeRCo"
+			}, {
+				"title": "Drivers react to Gen3 Camaro and Mustang - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/0i3ZkEy5LzQ/hqdefault.jpg",
+				"videoID": "0i3ZkEy5LzQ"
+			}, {
+				"title": "PIRTEK Pit Stop Challenge: 2021 Edition - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/UZa2R01UCr0/hqdefault.jpg",
+				"videoID": "UZa2R01UCr0"
+			}, {
+				"title": "Heavy Carrera Cup crash takes out two on the Mountain - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/w2Ss-n0vvow/hqdefault.jpg",
+				"videoID": "w2Ss-n0vvow"
+			}, {
+				"title": "Friday REVIEW: LIVE from the FAST LANE - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/DRpaI8IGS9Y/hqdefault.jpg",
+				"videoID": "DRpaI8IGS9Y"
+			}, {
+				"title": "Qualifying 31 Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/eMDp2JMg3Go/hqdefault.jpg",
+				"videoID": "eMDp2JMg3Go"
+			}, {
+				"title": "Race 9 Highlights - Repco Bathurst 1000 | Super2 2021",
+				"image": "https://i.ytimg.com/vi/RCsZcZG7G3w/hqdefault.jpg",
+				"videoID": "RCsZcZG7G3w"
+			}, {
+				"title": "First taste of the Mountain for Gen3 - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/Y4MDw11RamM/hqdefault.jpg",
+				"videoID": "Y4MDw11RamM"
+			}, {
+				"title": "Practice 4 Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/qIS2-hYl28E/hqdefault.jpg",
+				"videoID": "qIS2-hYl28E"
+			}, {
+				"title": "Practice 3 Highlights - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/bXsC3m0wDp8/hqdefault.jpg",
+				"videoID": "bXsC3m0wDp8"
+			}, {
+				"title": "Episode 11: Historic first laps [Gen3 Unpacked] | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/E3yG0srDuCY/hqdefault.jpg",
+				"videoID": "E3yG0srDuCY"
+			}, {
+				"title": "Gen3 Launch EVENT - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/OE8g1cC6bXE/hqdefault.jpg",
+				"videoID": "OE8g1cC6bXE"
+			}, {
+				"title": "Gen3 in the FLESH - Repco Bathurst 1000 | Supercars 2021",
+				"image": "https://i.ytimg.com/vi/Jyk1d8DLBdk/hqdefault.jpg",
+				"videoID": "Jyk1d8DLBdk"
 			}
 
 
