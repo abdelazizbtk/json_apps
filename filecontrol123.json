@@ -1,6 +1,8 @@
 [
     {
       "showAds": "true",
-      "showcpa": "true"
+      "showcpa": "true",
+      "stopapp": "true",
+      "linkofapp": "https://play.google.com/store/apps/details?id=com.run.squid.challenges.survival.clash"
     }
 ]
